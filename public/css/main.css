@@ -1,0 +1,51 @@
+/* CSS Reset */
+html,
+body,
+div,
+span,
+p {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    line-height: 1.5rem;
+}
+
+/* More reset styles... */
+
+/* Optional styles to include box-sizing and normalize font styles */
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    line-height: 1;
+    font-family: sans-serif;
+    height: 100%;
+}
+
+.main-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content {
+    flex: 1;
+}
+
+.sport-card {
+    cursor: pointer;
+    transition: border-color 0.3s ease-in-out;
+    opacity: 0.8 !important;
+}
+
+.sport-card:hover {
+    border-color: gray !important;
+    opacity: 1 !important;
+}
