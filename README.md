@@ -1,7 +1,4 @@
 # Club de Sport - Application Web
-![Uploading 1.jpeg…]()
-
-
 Bienvenue dans l'application web du **Club de Sport** dédiée aux activités de football et de basketball. Cette application a été conçue pour faciliter la gestion des différentes interfaces liées aux activités sportives.
 
 ## Description
@@ -30,4 +27,4 @@ L'application comprend plusieurs interfaces pour différents types d'utilisateur
 - **Secrétaires** : Administration des inscriptions, des paiements et des communications.
 - **Administrateurs** : Supervision générale du club, gestion des utilisateurs et des ressources.
 
-
+![Uploading 1.jpeg…]()
