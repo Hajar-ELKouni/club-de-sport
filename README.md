@@ -27,4 +27,3 @@ L'application comprend plusieurs interfaces pour différents types d'utilisateur
 - **Secrétaires** : Administration des inscriptions, des paiements et des communications.
 - **Administrateurs** : Supervision générale du club, gestion des utilisateurs et des ressources.
 
-![Uploading 1.jpeg…]()
