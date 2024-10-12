@@ -26,4 +26,5 @@ L'application comprend plusieurs interfaces pour différents types d'utilisateur
 - **Coachs** : Gestion des équipes, des horaires d'entraînement et des stratégies de jeu.
 - **Secrétaires** : Administration des inscriptions, des paiements et des communications.
 - **Administrateurs** : Supervision générale du club, gestion des utilisateurs et des ressources.
+![screencapture-localhost-VSPORT-admin-equipes-php-2024-10-12-18_19_07](https://github.com/user-attachments/assets/cf98cfb6-d965-4562-baa8-78aff2134008)
 
